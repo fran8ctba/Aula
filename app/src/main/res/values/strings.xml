@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string-array name="lista">
+        <item>Uva</item>
+        <item>Laranja</item>
+        <item>Limão</item>
+    </string-array>
+</resources>
